@@ -10,6 +10,14 @@ Welcome to the Movie Website project! This project showcases a website where use
 
 - **JavaScript:** Interactive elements and dynamic content are implemented using JavaScript, enhancing the user experience.
 
+---
+
 ## `Deploy`
 
 [https://mmovie-site.netlify.app/](https://mmovie-site.netlify.app/)
+
+---
+
+## `Screen`
+
+![Alt text](img.png)
