@@ -18,6 +18,12 @@ Welcome to the Movie Website project! This project showcases a website where use
 
 ---
 
+## `Responsive Design Preview`
+
+![Alt text](Video_230828133143.gif)
+
+---
+
 ## `Screen`
 
 ![Alt text](img.png)
